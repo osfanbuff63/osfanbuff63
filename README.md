@@ -11,7 +11,7 @@ Stats!
 
 ![generic stats](https://github-readme-stats.vercel.app/api/?username=osfanbuff63&theme=react&layout=compact)
 
-![langs used stats](https://github-readme-stats.vercel.app/api/top-langs/?username=lokka30&theme=react&layout=compact)
+![langs used stats](https://github-readme-stats.vercel.app/api/top-langs/?username=osfanbuff63&theme=react&layout=compact)
 <!--
 
 
