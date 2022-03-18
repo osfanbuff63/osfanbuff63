@@ -8,9 +8,11 @@
 
 Thanks for reading!
 
-GitHub stats!
+**GitHub stats!** (Thanks @urielsalis for the example!)
 
-![osfan's GitHub stats](https://github-readme-stats.vercel.app/api?username=osfanbuff63&show_icons=true&theme=solarized-dark?count_private=true)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=osfanbuff63&theme=solarized-dark?count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-
+<p align="center">
+<a href="https://github.com/osfanbuff63">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=osfanbuff63&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=osfanbuff63&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
