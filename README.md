@@ -9,10 +9,7 @@
 Thanks for reading!
 
 GitHub stats!
+![osfan's GitHub stats](https://github-readme-stats.vercel.app/api?username=osfanbuff63&show_icons=true&theme=dark?count_private=true)
 
-![generic stats](https://github-readme-stats.vercel.app/api/?username=osfanbuff63&theme=react&layout=compact)
-
-![langs used stats](https://github-readme-stats.vercel.app/api/top-langs/?username=osfanbuff63&theme=react&layout=compact)
-<!--
-test to update
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=osfanbuff63&theme=dark?count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
