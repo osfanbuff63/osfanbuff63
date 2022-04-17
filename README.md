@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🔭 I’m currently working on **Minecraft datapacks and helping out with updating Minecraft mods (to 1.18.2)**
+- 🔭 I’m currently working on **Minecraft datapacks**
 - 🌱 I’m currently learning **Python**
 - 👯 I’m looking to collaborate on **Minecraft datapacks/resource packs**
 - 💬 Ask me about **mcfunction** (lol)
