@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🔭 I’m currently working on **Minecraft datapacks**
+- 🔭 I’m currently working on **Minecraft datapacks and random Wii homebrew-related stuff**
 - 🌱 I’m currently learning **Python**
 - 👯 I’m looking to collaborate on **Minecraft datapacks/resource packs**
 - 💬 Ask me about **mcfunction** (lol)
