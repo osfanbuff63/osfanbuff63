@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there 👋
 - 🔭 I’m currently working on **Minecraft datapacks and random Wii homebrew-related stuff**
 - 🌱 I’m currently learning **Python**
 - 👯 I’m looking to collaborate on **Minecraft datapacks/resource packs**
@@ -8,10 +8,10 @@
 
 Thanks for reading!
 
-**GitHub stats!** (Thanks @urielsalis for the example!)
+## GitHub stats! 
 
-<p align="center">
-<a href="https://github.com/osfanbuff63">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=osfanbuff63&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  
+![osfanbuff63's GitHub stats](https://github-readme-stats.vercel.app/api?username=osfanbuff63&count_private=true&theme=algolia)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=osfanbuff63&theme=algolia&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+Oh, by the way, around 99% of my Top Langs showing up as Java is from 1) forks, and 2) MCreator lol. I don't actually know any Java, besides some basic Gradle knowledge :P
