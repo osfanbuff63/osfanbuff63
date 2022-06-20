@@ -14,4 +14,6 @@ Thanks for reading!
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=osfanbuff63&theme=algolia&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+[![osfanbuff63's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=osfanbuff63&theme=algolia&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 Oh, by the way, around 82% of my Top Langs showing up as Java is from 1) forks, and 2) MCreator lol. I don't actually know any Java, besides some basic Gradle knowledge :P
