@@ -1,7 +1,7 @@
 ## Hi there 👋
 [![wakatime](https://wakatime.com/badge/user/2f1d884d-e31a-4144-944e-14feb00f50e3.svg)](https://wakatime.com/@2f1d884d-e31a-4144-944e-14feb00f50e3)
 
-- 🔭 I’m currently working on **Minecraft datapacks and random Wii homebrew-related stuff**
+- 🔭 I’m currently working on **Minecraft datapacks, Wii homebrew stuff, Jekyll websites, and more!**
 - 🌱 I’m currently learning **Python**
 - 👯 I’m looking to collaborate on **Minecraft datapacks/resource packs**
 - 💬 Ask me about **mcfunction** (lol)
