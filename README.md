@@ -20,6 +20,9 @@ Thanks for reading!
 
 Oh, by the way, around 82% of my Top Langs showing up as Java is from 1) forks, and 2) MCreator lol. I don't actually know any Java, besides some basic Gradle knowledge :P
 
+Join my new Discord server! https://discord.gg/aKZxB6xTYZ
+
+Warning: afflitate links below!
 <details>
   <summary>Need a Minecraft server?</summary>
   I use Shockbyte for all my Minecraft servers, and they provide an amazing blend of price to performance. And, you can get 25% off your first month if you use this link below! (This link does come back to support me!)
