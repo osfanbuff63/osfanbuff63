@@ -22,6 +22,9 @@ Oh, by the way, around 82% of my Top Langs showing up as Java is from 1) forks, 
 
 Join my new Discord server! https://discord.gg/aKZxB6xTYZ
 
+
+## Links
+
 Warning: afflitate links below!
 <details>
   <summary>Need a Minecraft server?</summary>
