@@ -35,5 +35,5 @@ Warning: afflitate links below!
 
 <details>
   <summary>Help support charity!</summary>
-  Please check out [Tab For a Cause](https://tab.gladly.io/?u=osfanbuff63)!
+  Please check out <a href="https://tab.gladly.io/?u=osfanbuff63">Tab For a Cause</a>!
 </details>
